@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Project banner.png" alt="Online Bookstore SQL Project Banner" width="100%">
+  <img src="project banner.png" alt="Online Bookstore SQL Project Banner" width="100%">
 </p>
 # 📚 Online Bookstore SQL Project
 
