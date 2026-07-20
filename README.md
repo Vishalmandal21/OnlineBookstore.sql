@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Online Bookstore SQL Project Banner" width="100%">
+</p>
 # 📚 Online Bookstore SQL Project
 
 ## Project Overview
